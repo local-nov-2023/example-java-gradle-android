@@ -1,5 +1,5 @@
 
-# [:] Example Android Project
+# [:] Example Android Project - Scan
 
 An example Android project to demonstrate [SourceClear](https://www.sourceclear.com) scans.
 
